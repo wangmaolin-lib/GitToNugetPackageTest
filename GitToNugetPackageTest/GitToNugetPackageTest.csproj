@@ -5,7 +5,7 @@
 		<TargetFramework>netcoreapp3.1</TargetFramework>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Version>1.0.2</Version>
-		<Authors>Kybs0</Authors>
+		<Authors>nuget_wangmaolin</Authors>
 		<UseWpf>True</UseWpf>
 		<UseWindowsForms>true</UseWindowsForms>
 		<RepositoryUrl>https://github.com/wangmaolin-lib/GitToNugetPackageTest.git</RepositoryUrl>
