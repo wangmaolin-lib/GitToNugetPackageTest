@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>GitToNugetPackageTestgit</id>
+    <id>GitToNugetPackageTest</id>
     <version>1.0.2</version>
     <authors>Kybs0</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -18,7 +18,7 @@
     </frameworkReferences>
   </metadata>
   <files>
-    <file src="C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.runtimeconfig.json" target="lib\netcoreapp3.1\GitToNugetPackageTestgit.runtimeconfig.json" />
-    <file src="C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.dll" target="lib\netcoreapp3.1\GitToNugetPackageTestgit.dll" />
+    <file src="C:\wml\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.runtimeconfig.json" target="lib\netcoreapp3.1\GitToNugetPackageTest.runtimeconfig.json" />
+    <file src="C:\wml\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.dll" target="lib\netcoreapp3.1\GitToNugetPackageTest.dll" />
   </files>
 </package>

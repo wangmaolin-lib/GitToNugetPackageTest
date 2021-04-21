@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTestgit\\GitToNugetPackageTestgit.csproj": {}
+    "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTest\\GitToNugetPackageTest.csproj": {}
   },
   "projects": {
-    "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTestgit\\GitToNugetPackageTestgit.csproj": {
+    "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTest\\GitToNugetPackageTest.csproj": {
       "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTestgit\\GitToNugetPackageTestgit.csproj",
-        "projectName": "GitToNugetPackageTestgit",
-        "projectPath": "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTestgit\\GitToNugetPackageTestgit.csproj",
+        "projectUniqueName": "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTest\\GitToNugetPackageTest.csproj",
+        "projectName": "GitToNugetPackageTest",
+        "projectPath": "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTest\\GitToNugetPackageTest.csproj",
         "packagesPath": "C:\\Users\\wml\\.nuget\\packages\\",
-        "outputPath": "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTestgit\\obj\\",
+        "outputPath": "C:\\wml\\GitToNugetPackageTest\\GitToNugetPackageTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
