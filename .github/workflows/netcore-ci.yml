@@ -31,6 +31,7 @@ jobs:
       run: |
         dotnet pack --configuration Release
         pwd
+        cd GitToNugetPackageTest
         ls
-        nuget push ./bin/Release/*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey oy2kezdor7zbs3clynrqvwmqtmkd6xuevewnug5t7c26fi -NoSymbol
-        nuget push ./bin/Release/*.nupkg -Source github -SkipDuplicate
+        nuget push ./GitToNugetPackageTest/bin/Release/*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey oy2kezdor7zbs3clynrqvwmqtmkd6xuevewnug5t7c26fi -NoSymbol
+        nuget push ./GitToNugetPackageTest/bin/Release/*.nupkg -Source github -SkipDuplicate
