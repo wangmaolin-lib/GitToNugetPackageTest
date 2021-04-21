@@ -30,4 +30,4 @@ jobs:
     - name: 发布生成包到github和nuget
       run: |
         dotnet pack --configuration Release
-        dotnet nuget push ./GitToNugetPackageTest/bin/Release/*.nupkg -k oy2kezdor7zbs3clynrqvwmqtmkd6xuevewnug5t7c26fi -s https://api.nuget.org/v3/index.json
+        dotnet nuget push ./bin/Release/*.nupkg -k oy2kezdor7zbs3clynrqvwmqtmkd6xuevewnug5t7c26fi -s https://api.nuget.org/v3/index.json
