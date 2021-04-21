@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTestLib\\GitToNugetPackageTestLib.csproj": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "restore": {
         "projectUniqueName": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTestLib\\GitToNugetPackageTestLib.csproj",
         "projectName": "GitToNugetPackageTestLib",
