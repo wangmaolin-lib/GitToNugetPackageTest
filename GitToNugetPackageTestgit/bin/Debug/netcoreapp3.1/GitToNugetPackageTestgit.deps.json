@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "GitToNugetPackageTestgit/1.0.1": {
+      "GitToNugetPackageTestgit/1.0.2": {
         "runtime": {
           "GitToNugetPackageTestgit.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "GitToNugetPackageTestgit/1.0.1": {
+    "GitToNugetPackageTestgit/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
