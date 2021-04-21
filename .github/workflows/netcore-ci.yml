@@ -1,23 +1,33 @@
-name: .NETcore-CI
+name: .NETCore-CI
 
 on:
   push:
-   branches: [ master ]
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-    - name: Build with dotnet
-      run: dotnet build --configuration Release
 
-    - name: Install Nuget
+    steps:
+    - uses: actions/checkout@v2
+    - name: 建立.netcore环境
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.301
+    - name: 安装依赖
+      run: dotnet restore
+    - name: 构建
+      run: dotnet build --configuration Release --no-restore
+    - name: 添加github仓库
+      run: |
+        nuget sources add -name github -Source https://nuget.pkg.github.com/wangmaolin-lib/index.json -Username ORGANIZATION_NAME -Password ${{ secrets.GitHubToken }}
+    - name: 安装nuget 
       uses: nuget/setup-nuget@v1
       with:        
         nuget-version: '5.x'
-    - name: Add private GitHub registry to NuGet
+    - name: 发布生成包到github和nuget
       run: |
-        nuget sources add -name github -Source https://nuget.pkg.github.com/wangmaolin-lib/index.json -Username ORGANIZATION_NAME -Password ${{secrets.GITHUB_TOKEN}}
-    - name: Push generated package to GitHub registry
-      run: |
-        nuget push .\bin\release\*.nupkg -Source github -SkipDuplicate
-        nuget push .\bin\release\*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey ${{secrets.NugetKey}} -NoSymbols 
+        nuget push ./bin/Release/*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey ${{ secrets.NugetKey }} -NoSymbol
+        nuget push ./bin/Release/*.nupkg -Source github -SkipDuplicate
