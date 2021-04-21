@@ -35,4 +35,4 @@ jobs:
         cd bin
         cd Release
         ls
-        nuget push ./*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey oy2oeinpfueqyithwgda7xmwuw2di54uvdkm2erzodiery -NoSymbol
+        nuget push ./*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey ${{secrets.NUGETKEY}} -NoSymbol
