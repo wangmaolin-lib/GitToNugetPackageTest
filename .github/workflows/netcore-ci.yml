@@ -22,7 +22,7 @@ jobs:
       run: dotnet build --configuration Release --no-restore
     - name: 添加github仓库
       run: |
-        nuget sources add -name github -Source https://nuget.pkg.github.com/wangmaolin-lib/index.json -Username crewml@126.com -Password ${{secrets.GitHubToken}}
+        nuget sources add -name github -Source https://nuget.pkg.github.com/wangmaolin-lib/index.json -Username crewml@126.com -Password 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
     - name: 安装nuget 
       uses: nuget/setup-nuget@v1
       with:        
