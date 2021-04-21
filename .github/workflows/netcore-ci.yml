@@ -35,4 +35,4 @@ jobs:
         cd bin
         cd Release
         ls
-        dotnet nuget push ./*.nupkg -s https://api.nuget.org/v3/index.json -SkipDuplicate -k oy2oeinpfueqyithwgda7xmwuw2di54uvdkm2erzodiery
+        dotnet nuget push ./*.nupkg -s https://api.nuget.org/v3/index.json -SkipDuplicate -k oy2oeinpfueqyithwgda7xmwuw2di54uvdkm2erzodiery -NoSymbol
