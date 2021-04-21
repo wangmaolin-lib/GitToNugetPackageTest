@@ -29,7 +29,6 @@ C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\Gi
 C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.runtimeconfig.dev.json
 C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.dll
 C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.pdb
-C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.csprojAssemblyReference.cache
 C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.AssemblyInfoInputs.cache
 C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.AssemblyInfo.cs
 C:\wml\GitToNugetPackageTest\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.csproj.CoreCompileInputs.cache
