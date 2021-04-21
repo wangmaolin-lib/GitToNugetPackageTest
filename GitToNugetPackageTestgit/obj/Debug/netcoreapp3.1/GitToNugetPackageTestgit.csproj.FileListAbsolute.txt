@@ -1,0 +1,13 @@
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.exe
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.deps.json
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.runtimeconfig.json
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.runtimeconfig.dev.json
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.dll
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\bin\Debug\netcoreapp3.1\GitToNugetPackageTestgit.pdb
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.csprojAssemblyReference.cache
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.AssemblyInfoInputs.cache
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.AssemblyInfo.cs
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.csproj.CoreCompileInputs.cache
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.dll
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.pdb
+C:\Users\wml\Desktop\GitToNugetPackageTestgit\GitToNugetPackageTestgit\obj\Debug\netcoreapp3.1\GitToNugetPackageTestgit.genruntimeconfig.cache
