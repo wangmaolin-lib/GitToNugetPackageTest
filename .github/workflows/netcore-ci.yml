@@ -33,5 +33,7 @@ jobs:
         pwd
         cd GitToNugetPackageTest
         ls
+        cd bin
+        ls
         nuget push ./GitToNugetPackageTest/bin/Release/*.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate -ApiKey oy2kezdor7zbs3clynrqvwmqtmkd6xuevewnug5t7c26fi -NoSymbol
         nuget push ./GitToNugetPackageTest/bin/Release/*.nupkg -Source github -SkipDuplicate
