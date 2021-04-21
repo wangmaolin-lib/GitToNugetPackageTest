@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Version>1.0.2</Version>
+		<Authors>nuget_wangmaolin</Authors>
+		<UseWpf>True</UseWpf>
+		<UseWindowsForms>true</UseWindowsForms>
+		<RepositoryUrl>https://github.com/wangmaolin-lib/GitToNugetPackageTest.git</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/wangmaolin-lib/GitToNugetPackageTest</PackageProjectUrl>
+		<PackageIconUrl></PackageIconUrl>
+		<RepositoryType>git</RepositoryType>
+		<Description>测试：Git自动打包，并推到Nuget源。</Description>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+</Project>

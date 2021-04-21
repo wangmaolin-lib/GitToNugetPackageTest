@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.2",
     "restore": {
-      "projectUniqueName": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTest\\GitToNugetPackageTest.csproj",
-      "projectName": "GitToNugetPackageTest",
-      "projectPath": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTest\\GitToNugetPackageTest.csproj",
+      "projectUniqueName": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTestLib\\GitToNugetPackageTestLib.csproj",
+      "projectName": "GitToNugetPackageTestLib",
+      "projectPath": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTestLib\\GitToNugetPackageTestLib.csproj",
       "packagesPath": "C:\\Users\\wml\\.nuget\\packages\\",
-      "outputPath": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTest\\obj\\",
+      "outputPath": "C:\\wml\\资料\\GitToNugetPackageTest\\GitToNugetPackageTestLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

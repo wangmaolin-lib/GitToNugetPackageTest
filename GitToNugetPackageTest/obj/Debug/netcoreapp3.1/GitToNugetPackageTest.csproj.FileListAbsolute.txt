@@ -1,0 +1,12 @@
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.exe
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.deps.json
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.runtimeconfig.json
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.runtimeconfig.dev.json
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.dll
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\bin\Debug\netcoreapp3.1\GitToNugetPackageTest.pdb
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\obj\Debug\netcoreapp3.1\GitToNugetPackageTest.AssemblyInfoInputs.cache
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\obj\Debug\netcoreapp3.1\GitToNugetPackageTest.AssemblyInfo.cs
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\obj\Debug\netcoreapp3.1\GitToNugetPackageTest.csproj.CoreCompileInputs.cache
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\obj\Debug\netcoreapp3.1\GitToNugetPackageTest.dll
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\obj\Debug\netcoreapp3.1\GitToNugetPackageTest.pdb
+C:\wml\资料\GitToNugetPackageTest\GitToNugetPackageTest\obj\Debug\netcoreapp3.1\GitToNugetPackageTest.genruntimeconfig.cache
