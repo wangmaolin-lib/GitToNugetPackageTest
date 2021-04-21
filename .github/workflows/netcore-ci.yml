@@ -31,7 +31,7 @@ jobs:
       run: |
         dotnet pack --configuration Release
         pwd
-        cd GitToNugetPackageTest
+        cd GitToNugetPackageTestLib
         cd bin
         cd Release
         ls
